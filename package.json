@@ -1,0 +1,22 @@
+{
+  "name": "mqttserverapp",
+  "version": "1.0.0",
+  "description": "\"# mqttServerApp\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pastelblush/mqttServerApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pastelblush/mqttServerApp/issues"
+  },
+  "homepage": "https://github.com/pastelblush/mqttServerApp#readme",
+  "dependencies": {
+    "mosca": "^1.1.2"
+  }
+}
